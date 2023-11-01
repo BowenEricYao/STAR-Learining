@@ -1,5 +1,5 @@
 # STAR-Learining
-To run the code, you first need to need to install:
+To run the code, you first need to install:
 `pip install torch'
 `pip install torch_geometric'
 `pip install torch_scatter'
